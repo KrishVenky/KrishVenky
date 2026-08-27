@@ -68,14 +68,14 @@ On-device scam-call detector, zero network calls, cross-compiled for arm64 with 
 <tr>
 <td width="50%">
 
-**[Macro-Signal-Engine](https://github.com/KrishVenky/Macro-Signal-Engine-OpenEnv)**
-Macro forecasting environment built for the HRT × Partcl challenge.
+**[HRT_Partcl_Hackathon](https://github.com/KrishVenky/HRT_Partcl_Hackathon)**
+Quantum-annealing-inspired chip macro placement solver, ~38x faster HPWL computation, built for the HRT × Partcl challenge.
 
 </td>
 <td width="50%">
 
-**[FinVestor](https://github.com/KrishVenky/FinVestor)**
-Market research and signal tooling: RAG over financial data, tuned for Indian markets.
+**[Narada-Env](https://github.com/KrishVenky/Narada-Env)**
+RL environment where an agent navigates a 55,000-node biomedical knowledge graph to diagnose rare disease patients.
 
 </td>
 </tr>
@@ -119,13 +119,6 @@ Market research and signal tooling: RAG over financial data, tuned for Indian ma
 [![Portfolio](https://img.shields.io/badge/-krishvenky.github.io-000000?style=flat-square&logo=vercel&logoColor=white)](https://krishvenky.github.io)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishnavenky)
 [![Email](https://img.shields.io/badge/-krishvenky14%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:krishvenky14@gmail.com)
-
-<br>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KrishVenky&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishVenky&layout=compact&theme=dark&hide_border=true" height="165" alt="Top languages" />
-</div>
 
 <br>
 
